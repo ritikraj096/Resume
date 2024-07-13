@@ -1,0 +1,47 @@
+#page{
+    margin: auto;
+    display: block;
+    height: auto;
+    width: 50%;
+    border: 2px solid;
+    padding: 3px;
+    border-radius: 10px;
+    border-color:rgb(0, 145, 111);
+}
+
+h1{
+    color: rgb(0, 145, 111);
+}
+
+h3{
+    margin-top: 2%;
+    margin-bottom:0%;
+    color: rgb(0, 145, 111);
+}
+
+hr{
+    width: 98%;
+    margin-top: 0%;
+    margin-left: 0%;
+    height: 2px;
+    background-color: rgb(0, 145, 111);
+    border: 0px;
+    
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    margin-left: 2px;
+    text-indent: 0%;
+}
+a{
+    color:rgb(0, 145, 111);
+}
+
+.incont1{
+    width: 80%;
+}
+.incont2{
+    width: 20%;
+    align-items: self-end;
+}
